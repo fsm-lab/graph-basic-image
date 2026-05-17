@@ -22,7 +22,7 @@
 - pydeps 
 - graphviz 
 - shap 
-- umap 
+- umap-learn 
 - xgboost 
 - seaborn 
 - plotly 
