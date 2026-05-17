@@ -39,7 +39,7 @@ RUN python3 -m pip install --upgrade pip &&\
     pydeps \
     graphviz \
     shap \
-    umap \
+    umap-learn \
     xgboost \
     seaborn \
     plotly \
